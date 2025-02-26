@@ -6,6 +6,9 @@
 <!-- PROJECT TITLE -->
 # Le Petit French Bakery Sales Analysis (2021 – 2022)
 
+<!-- DASHBOARD OVERVIEW -->
+[![Tableau Dashboard Screenshot][tableau-dashborad-screenshot]][tableau-dashboard-url]
+
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents
 1. [Project Background](#1-project-background)
@@ -77,9 +80,9 @@ Le Petit's sales analysis of **233,973 records** across **2021–2022** reveals 
 
 Based on these findings, actionable recommendations have been provided to increase revenue, optimize operations, and improve customer satisfaction. 
 
-Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be accessed [here][tableau-dashboard-url]. 
+The entire Tableau interactive dashboard can be accessed [here][tableau-dashboard-url]. 
  
-[![Tableau Dashboard Screenshot][tableau-dashborad-screenshot]][tableau-dashboard-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
